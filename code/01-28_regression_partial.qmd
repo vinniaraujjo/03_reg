@@ -39,7 +39,7 @@ Because both the response variable (i.e., corn yield) and explanatory variable (
 Anytime we have this input x output **numerical** relationship, a few different patterns can emerge.
 
 ```{r input output relationships figure, echo=F}
-knitr::include_graphics("../data/ior.png")
+# knitr::include_graphics("../data/ior.png")
 ```
 
 Talk about each of these patterns.
